@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+hr {
+  border: gray 1px solid;
+}
+
+img {
+  border-radius: 50%;
+}
+
+
